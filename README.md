@@ -1,11 +1,16 @@
 # Beber_Agua_Lembrete
 
-<img src="app/src/main/res/result/Screenshot_20230626_233704.png" alt="Descrição da imagem" width="180">&emsp;
-<img src="app/src/main/res/result/Screenshot_20230626_233724.png" alt="Descrição da imagem" width="180">&emsp;
-<img src="app/src/main/res/result/Screenshot_20230626_233735.png" alt="Descrição da imagem" width="180">
+<img src="app/src/main/res/result/Screenshot_20230702_221549.png" alt="Descrição da imagem" width="180">&emsp;
+<img src="app/src/main/res/result/Screenshot_20230702_221605.png" alt="Descrição da imagem" width="180">&emsp;
+<img src="app/src/main/res/result/Screenshot_20230702_221625.png" alt="Descrição da imagem" width="180">
+<img src="app/src/main/res/result/Screenshot_20230702_221654.png" alt="Descrição da imagem" width="180">
+<img src="app/src/main/res/result/Screenshot_20230702_221710.png" alt="Descrição da imagem" width="180">
+<img src="app/src/main/res/result/Screenshot_20230702_221717.png" alt="Descrição da imagem" width="180">
 
 
-Desenvolvi um aplicativo inovador focado na saúde e bem-estar dos usuários, proporcionando lembretes para se manterem hidratados ao longo do dia. Com base no peso e idade do usuário, o aplicativo permite definir metas diárias de consumo de água, oferecendo orientação personalizada. Além disso, envia lembretes regulares para incentivar o usuário a beber água nos momentos apropriados, auxiliando na criação de hábitos saudáveis.
+
+
+Desenvolvi um aplicativo focado na saúde e bem-estar dos usuários, proporcionando lembretes para se manterem hidratados ao longo do dia. Com base no peso e idade do usuário, o aplicativo permite definir metas diárias de consumo de água, oferecendo orientação personalizada. Além disso, envia lembretes regulares para incentivar o usuário a beber água nos momentos apropriados, auxiliando na criação de hábitos saudáveis.
 Para tornar a experiência ainda mais conveniente, o aplicativo conta com recursos extras, como a configuração de lembretes personalizados, permitindo que o usuário defina horários específicos para receber notificações.!
 * Kotlin
 * Activity para host de telas
